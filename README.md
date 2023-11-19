@@ -1,11 +1,11 @@
 # Random notes for quick reference
 
 ## Mechanical Engineering
-* [Note: A quick revie of mechanical engineering basics](http://ronney.usc.edu/AME101/AME101-LectureNotes.pdf)
+* [Note: A quick review of mechanical engineering basics](http://ronney.usc.edu/AME101/AME101-LectureNotes.pdf)
 * [507 movements website](https://507movements.com/)
 * [Interesting YouTuve videos and animations](https://www.youtube.com/@YesYenGraphiTech/videos) Creator: [https://yesyen.com/](https://yesyen.com/)
 
-## Making and Hackery
+## Electronics, Making, and Hackery
 * [DroneBot workshop](https://www.youtube.com/@Dronebotworkshop)
 
 ## Nerfs and friends!
